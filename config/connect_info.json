@@ -1,0 +1,26 @@
+{
+  "ES": {
+    "ETL_IP1": "121.125.71.147",
+    "ETL_IP2": "121.125.71.148",
+    "ETL_IP3": "121.125.71.149",
+    "ES_USER": "elastic",
+    "ES_PWD": "wtlcnNyrDPVko01lZfIl",
+    "COMPLETE_IP1": "121.125.71.151",
+    "COMPLETE_IP2": "121.125.71.152",
+    "COMPLETE_IP3": "121.125.71.153",
+    "COMPLETE_IP4": "121.125.71.154",
+    "COMPLETE_IP5": "121.125.71.155",
+    "ES_COMPLETE_USER": "elastic",
+    "ES_COMPLETE_PWD": "X7XsyxLzbrFDFMyOy3Wd",
+    "COMPLETE_ALL": "index-nudge-complete-all",
+    "PLAY_LIVE": "index-nudge-play-live",
+    "PLAY": "index-nudge-play",
+    "ORDER": "index-nudge-order",
+    "TEXT": "index-nudge-search-text",
+    "VOICE": "index-nudge-search-voice",
+    "ORDER-2": "index-nudge-order-completed-2",
+    "ORDER-7": "index-nudge-order-completed-7",
+    "UNION_SEARCH": "index-nudge-union-search",
+    "UNION_SYNOPSIS": "index-nudge-union-synopsis"
+  }
+}
